@@ -1,0 +1,83 @@
+header {
+   background-color: #00008d;
+   border-radius: 90px;
+   margin: 0px;
+}
+body{
+    background: black
+}
+footer{
+
+    background-color: #00008d; 
+       border-radius: 10px;
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+    margin: 5px;
+    padding: 0px;
+}
+
+main {
+    background: linear-gradient(red, blue)
+    
+}
+footer h3 {
+    margin: 50px ;   
+}
+h2 {background: linear-gradient(to bottom right, red,blue,green,rgb(0, 0, 141), pink);
+  
+}
+h3{
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+    font-size: 50px
+}
+
+footer p {
+    text-align: center;
+}
+h4{
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+    font-size: 50px
+}
+
+footer p {
+    text-align: center;
+}
+h5{
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+    font-size: 50px
+}
+
+footer p {
+    text-align: center;
+}
+h6{
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+    font-size: 50px
+}
+
+footer p {
+    text-align: center;
+}
+
+.hjr{
+    background: linear-gradient(blue, red)
+}
+.hj{
+    background: linear-gradient(red, blue)
+}
+.hr{
+    background: linear-gradient(blue, red)
+}
+.hji{
+    background: linear-gradient(red, blue)
+}
